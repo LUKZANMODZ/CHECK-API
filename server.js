@@ -16,7 +16,7 @@ app.use(express.json());
 const API_CONFIG = {
     SUNWIN: 'http://180.93.52.196:3001/api/his',
     LC79: 'https://wtxmd52.tele68.com/v1/txmd5/sessions'
-};
+};  LC79TX: 'https://wtx.tele68.com/v1/tx/lite-sessions?cp=R&cl=R&pf=web&at=bd68ae4284421334b52b9963d4406f60'
 
 // ==================== CORE DATA STRUCTURES ====================
 class SessionData {
